@@ -26,12 +26,12 @@ body {
 
 .contenedor {
     width: 120rem;
-    margin-top: 0;
-    margin-right: auto;
-    margin-bottom: 0;
-    margin-left: auto;
+    margin: 0 auto;
 }
 
-.navegacion-principal {
+.nav-bg {
     background-color: var(--secundario);
+}
+.navegacion-principal {
+    
 }
