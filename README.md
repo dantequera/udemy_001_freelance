@@ -18,10 +18,6 @@ Sitio web profesional de portafolio para mostrar servicios de diseño y desarrol
 - **Normalize.css** - Normalización de estilos
 - **Google Fonts** - Tipografía Krub
 
-## 📸 Capturas de Pantalla
-
-![Portafolio Freelancer](https://dashing-choux-cbdf98.netlify.app/)
-
 ## 🚀 Visualizar el Proyecto
 
 Puedes ver el sitio en vivo en: [https://dashing-choux-cbdf98.netlify.app/](https://dashing-choux-cbdf98.netlify.app/)
